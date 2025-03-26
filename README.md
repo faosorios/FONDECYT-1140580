@@ -13,3 +13,12 @@ Está bien documentado que la presencia de valores atípicos y observaciones ext
 
 ## Libro
 - Vallejos, R., Osorio, F., Bevilacqua, M. (2020). [Spatial Relationships Between Two Georeferenced Variables: With Applications in R](https://doi.org/10.1007/978-3-030-56681-4). Springer, Cham.
+
+## Tesis de pre y postgrado
+- Eileen Labalobich. Tema: _Estimación máximo Lq-verosímil en modelos lineales generalizados_. Estadístico, Pontificia Universidad Católica de Valparaíso. Octubre 2018.
+- Alonso Ogueda. Tema: _Diagnóstico de influencia en regresión ridge basado en una función de divergencia_.  Ingeniero Civil Matemático, Universidad Técnica Federico Santa María. Enero 2018.
+- Paula Guerrero. Tema: _Influencia local en estimación máximo Lq-verosímil_. Magíster en Estadística, Pontificia Universidad Católica de Valparaíso. Julio 2016.
+- Diego Estay. Tema: _Estimación robusta en modelos de curvas de crecimiento_. Estadístico, Pontificia Universidad Católica de Valparaíso. Enero 2017.
+- Jessenia Cortés. Tema: _Leverage generalizado en estimación máximo Lq-verosímil_. Magíster en Estadística, Pontificia Universidad Católica de Valparaíso. Julio 2016.
+- Jessica García. Tema: _Test gradiente en funciones de inferencia_. Estadístico, Pontificia Universidad Católica de Valparaíso. Diciembre 2015.
+- Agustín Uribe. Tema: _Detección de outliers en ecuaciones de estimación_. Ingeniero Civil Matemático, Universidad Técnica Federico Santa María. Agosto 2015.
