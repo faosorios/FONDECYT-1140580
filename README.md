@@ -11,3 +11,5 @@ Está bien documentado que la presencia de valores atípicos y observaciones ext
 - Acosta, J., Osorio, F., Vallejos, R. (2016). Effective sample size for line transect sampling models with an application to marine macroalgae. [Journal of Agricultural, Biological, and Environmental Statistics](https://doi.org/10.1007/s13253-016-0252-7) 21 (3), 407-425.
 - Osorio, F. (2016). Influence diagnostics for robust P-splines using scale mixture of normal distributions. [Annals of the Institute of Statistical Mathematics](https://doi.org/10.1007/s10463-015-0506-0) 68 (3), 589-619.
 
+## Libro
+- Vallejos, R., Osorio, F., Bevilacqua, M. (2020). [Spatial Relationships Between Two Georeferenced Variables: With Applications in R](https://doi.org/10.1007/978-3-030-56681-4). Springer, Cham.
