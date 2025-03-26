@@ -1,2 +1,3 @@
-# FONDECYT-1140580
-FONDECYT 1140580
+# FONDECYT 1140580: Influence Diagnostics and Residual Analysis in Inference Functions with Applications to Longitudinal Data
+
+It has been well documented that the presence of outliers and extreme observations can have a strong impact on statistical inference. Despite this type of situation may often go unnoticed in the data analysis. This has led to the development of measures to detect and quantify the effect of this kind of aberrant observations. Some authors have developed tools for influence diagnostics and residual analysis in generalized estimating equations (Preisser and Qaqish, 1996; Ziegler et al., 1998; Preisser and Perin, 2007; Venezuela et al., 2007, 2011; Vens and Ziegler, 2012). Nevertheless, we require more insightful methodologies to assess the influence of atypical observations in the broader framework of inference functions (Song, 2007; Ziegler, 2011). In addition, we believe that the existing definitions of standarized residuals are still insufficient.
