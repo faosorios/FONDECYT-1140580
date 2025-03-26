@@ -3,7 +3,7 @@
 ## Resumen
 Está bien documentado que la presencia de valores atípicos y observaciones extremas puede tener un fuerte impacto en la inferencia estadística. Sin embargo, este tipo de situaciones suelen pasar desapercibidas en el análisis de los datos. Esto ha llevado al desarrollo de medidas para detectar y cuantificar el efecto de este tipo de observaciones aberrantes. Algunos autores han desarrollado herramientas para el diagnóstico de influencia y el análisis de residuos en ecuaciones de estimación generalizadas (Preisser y Qaqish, 1996; Ziegler et al., 1998; Preisser y Perin, 2007; Venezuela et al., 2007, 2011; Vens y Ziegler, 2012). No obstante, necesitamos de diversas metodologías para evaluar la influencia de observaciones atípicas en el contexto amplio de funciones de inferencia (Song, 2007; Ziegler, 2011). Además, creemos que las definiciones existentes de residuos estandarizados siguen siendo insuficientes.
 
-## Articulos cientificos
+## Artículos científicos
 - Osorio, F., Garate, A., Russo, C.M. (2024). The gradient test statistic for outlier detection in generalized estimating equations. [Statistics & Probability Letters](https://doi.org/10.1016/j.spl.2024.110087) 209, 110087.
 - Osorio, F., Galea, M., Henriquez, C., Arellano-Valle, R. (2023). Addressing non-normality in multivariate analysis using the t-distribution. [AStA Advances in Statistical Analysis](https://doi.org/10.1007/s10182-022-00468-2) 107, 785-813.
 - Crudu, F., Osorio, F. (2020). Bilinear form test statistics for extremum estimation [Economics Letters](https://doi.org/10.1016/j.econlet.2019.108885) 187, 108885.
