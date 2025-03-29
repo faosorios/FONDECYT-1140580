@@ -16,6 +16,11 @@ Los resultados del proyecto han tenido un impacto significativo en la comunidad 
 
 En resumen, este proyecto ha generado métodos innovadores para mejorar el análisis de datos en múltiples disciplinas, brindando herramientas más precisas y eficientes para el estudio de fenómenos complejos.
 
+## Informes asociados al proyecto 
+- [Informe de Resultados](Informes/Resultados_1140580.pdf) [PDF, 143 Kb]
+- [Resumen Ejecutivo](Informes/Resumen-Final_1140580.pdf) [PDF, 61 Kb]
+- [Resumen para Divulgación](Informes/Resumen-Divulgacion_1140580.pdf) [PDF, 60 Kb]
+
 ## Artículos científicos
 - Osorio, F., Garate, A., Russo, C.M. (2024). The gradient test statistic for outlier detection in generalized estimating equations. [Statistics & Probability Letters](https://doi.org/10.1016/j.spl.2024.110087) 209, 110087.
 - Osorio, F., Galea, M., Henriquez, C., Arellano-Valle, R. (2023). Addressing non-normality in multivariate analysis using the t-distribution. [AStA Advances in Statistical Analysis](https://doi.org/10.1007/s10182-022-00468-2) 107, 785-813.
