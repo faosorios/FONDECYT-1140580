@@ -1,7 +1,20 @@
 # FONDECYT 1140580: Influence Diagnostics and Residual Analysis in Inference Functions with Applications to Longitudinal Data
 
-## Resumen
+## Resumen de la Propuesta
 Está bien documentado que la presencia de valores atípicos y observaciones extremas puede tener un fuerte impacto en la inferencia estadística. Sin embargo, este tipo de situaciones suelen pasar desapercibidas en el análisis de los datos. Esto ha llevado al desarrollo de medidas para detectar y cuantificar el efecto de este tipo de observaciones aberrantes. Algunos autores han desarrollado herramientas para el diagnóstico de influencia y el análisis de residuos en ecuaciones de estimación generalizadas (Preisser y Qaqish, 1996; Ziegler et al., 1998; Preisser y Perin, 2007; Venezuela et al., 2007, 2011; Vens y Ziegler, 2012). No obstante, necesitamos de diversas metodologías para evaluar la influencia de observaciones atípicas en el contexto amplio de funciones de inferencia (Song, 2007; Ziegler, 2011). Además, creemos que las definiciones existentes de residuos estandarizados siguen siendo insuficientes.
+
+## Resumen
+Este proyecto tuvo como objetivo principal desarrollar herramientas para mejorar el análisis de datos en situaciones donde los métodos estadísticos tradicionales presentan limitaciones. En particular, se trabajó en mejorar el diagnóstico de influencia en modelos estadísticos, con especial énfasis en Ecuaciones de Estimación Generalizadas (GEE). Para ello, se diseñó un mecanismo que permite detectar mejor la influencia que puede ejercer ciertos datos anómalos sobre el análisis, lo que por ejemplo, ofrece ayuda para la toma de decisiones más precisas e informadas.
+
+Uno de los avances más importantes fue la creación de un nuevo método para desarrollar test de hipótesis basado en una propuesta reciente conocida como estadístico gradiente, facilitando la realización de pruebas de hipótesis para una amplia clase de modelos. Este desarrollo es útil en diversas áreas, tales como procedimientos para regresión robusta así como el método de momentos generalizados, lo que permite grandes mejoras en la confiabilidad de los resultados obtenidos.
+
+Además, el proyecto exploró nuevas formas de evaluar la influencia que datos extremos pueden ejercer sobre el modelo estadístico propuesto, desarrollando métodos que consideran enfoques alternativos para mejorar la detección de observaciones atípicas. En particular, se descubrió que ciertos enfoques permiten una identificación más eficiente de datos influyentes que de otra manera no habría sido posible identificar. Experimentos numéricos con datos reales así como datos sintéticos permitieron evaluar las bondades de la metodología propuesta.
+
+Otro aporte clave del proyecto fue la extensión del concepto de tamaño muestral efectivo para datos espaciales, lo que facilita el análisis de información geográfica para datos recolectados a lo largo de transectas, lo que es muy habitual por ejemplo en estudios donde se desea estudiar la abundancia de especies marinas en un área específica, lo que permite investigar los cambios de abundancia de recursos en un hábitat. Como parte del proyecto se propuso un método de estimación altamente eficiente que lleva a la mejora de la interpretación en esta clase de modelos. Este tipo de desarrollos tiene interesantes aplicaciones en disciplinas como Ecología, Biología Marina y Climatología.
+
+Los resultados del proyecto han tenido un impacto significativo en la comunidad científica y profesional, quienes se han beneficiado de la implementación computacional de dichas técnicas en herramientas para análisis estadístico de acceso libre, las que han sido utilizadas por expertos y usuarios avanzados en áreas tales como Biología, Biomedicina, Economía y Ciencias Sociales. Además, se publicó un libro en la editorial Springer, lo que ha permitido difundir estos avances a investigadores de todo el mundo.
+
+En resumen, este proyecto ha generado métodos innovadores para mejorar el análisis de datos en múltiples disciplinas, brindando herramientas más precisas y eficientes para el estudio de fenómenos complejos.
 
 ## Artículos científicos
 - Osorio, F., Garate, A., Russo, C.M. (2024). The gradient test statistic for outlier detection in generalized estimating equations. [Statistics & Probability Letters](https://doi.org/10.1016/j.spl.2024.110087) 209, 110087.
