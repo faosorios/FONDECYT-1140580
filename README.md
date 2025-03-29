@@ -1,8 +1,5 @@
 # FONDECYT 1140580: Influence Diagnostics and Residual Analysis in Inference Functions with Applications to Longitudinal Data
 
-## Resumen de la Propuesta
-Está bien documentado que la presencia de valores atípicos y observaciones extremas puede tener un fuerte impacto en la inferencia estadística. Sin embargo, este tipo de situaciones suelen pasar desapercibidas en el análisis de los datos. Esto ha llevado al desarrollo de medidas para detectar y cuantificar el efecto de este tipo de observaciones aberrantes. Algunos autores han desarrollado herramientas para el diagnóstico de influencia y el análisis de residuos en ecuaciones de estimación generalizadas (Preisser y Qaqish, 1996; Ziegler et al., 1998; Preisser y Perin, 2007; Venezuela et al., 2007, 2011; Vens y Ziegler, 2012). No obstante, necesitamos de diversas metodologías para evaluar la influencia de observaciones atípicas en el contexto amplio de funciones de inferencia (Song, 2007; Ziegler, 2011). Además, creemos que las definiciones existentes de residuos estandarizados siguen siendo insuficientes.
-
 ## Resumen
 Este proyecto tuvo como objetivo principal desarrollar herramientas para mejorar el análisis de datos en situaciones donde los métodos estadísticos tradicionales presentan limitaciones. En particular, se trabajó en mejorar el diagnóstico de influencia en modelos estadísticos, con especial énfasis en Ecuaciones de Estimación Generalizadas (GEE). Para ello, se diseñó un mecanismo que permite detectar mejor la influencia que puede ejercer ciertos datos anómalos sobre el análisis, lo que por ejemplo, ofrece ayuda para la toma de decisiones más precisas e informadas.
 
