@@ -14,3 +14,6 @@ El siguiente documento presenta un listado de citas de cada uno de los productos
 
 ## Spatial Relationships Between Two Georeferenced Variables: With Applications in R
 - Trinidade, W.C.F., Zwiener, Peterson, V.A.T., Marques, M.C.M. (2025). Life-history strategies drive plant species richness patterns in the Atlantic forest hotspot. [Journal of Biogeography](https://doi.org/10.1111/jbi.70103) 52, e70103.
+- Rivera, R., González, C.E., Hidalgo, P., Urbina, M.A., Escribano, R. (2025). Environmental stability drives and maintains the global patterns of phylogenetic endemism in the marine realm. [Journal of Biogeography](https://doi.org/10.1111/jbi.70084) 52, e70084.
+- Long, P.R., Petrokofsky, L., Harvey, W.J., Orsi, P., Jordon, M.W., Petrokofsky, G. (2025). Structural diversity and biodiversity of forest and hedgerow in areas managed for pheasant shooting across the UK. [Forest](https://doi.org/10.3390/f16081249) 16, 1249.
+- Wei, P., Luo, X., Pie, M.R., Sucharitakul, P., Zhou, W., Yuan, Z. (2025). Global diversity patterns in anurans are determined by terrestrial and arboreal species. [Integrative Zoology](https://doi.org/10.1111/1749-4877.13032) doi: [https://doi.org/10.1111/1749-4877.13032](https://doi.org/10.1111/1749-4877.13032)
