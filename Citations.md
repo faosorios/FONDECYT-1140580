@@ -1,4 +1,4 @@
-# Citas de articulos en el proyecto FONDECYT 1140580
+# Difusion: Citas desde otras areas del conocimiento
 
 El siguiente documento presenta un listado de citas de cada uno de los productos del proyecto por parte de investigadores de areas no-estadisticas. 
 
