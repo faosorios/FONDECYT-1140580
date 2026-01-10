@@ -1,6 +1,6 @@
 # Difusión: Citas desde otras áreas del conocimiento
 
-El siguiente documento presenta un listado de citas de cada uno de los productos del proyecto por parte de investigadores de áreas no-estadisticas. 
+El siguiente documento presenta un listado de citas de cada uno de los productos del proyecto por parte de investigadores de áreas como Ecologia, Biologia Marina, Climatologia y Recursos Naturales, entre otras. 
 
 A modo de referencia, los 6 articulos reportados en el proyecto y el libro han recibido la cantidad de **130 citas** en total, mientras que a continuacion se detallan las **69 citas** obtenidas desde otras areas del conocimiento, a saber: 
 
