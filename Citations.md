@@ -1,8 +1,8 @@
 # Difusión: Citas desde otras áreas del conocimiento
 
-El siguiente documento presenta un listado de citas de cada uno de los productos del proyecto por parte de investigadores y profesionales de áreas como **Ecologia, Biologia Marina, Climatologia y Recursos Naturales**, entre otras. 
+El siguiente documento presenta un listado de citas de cada uno de los productos del proyecto por parte de investigadores y profesionales de áreas como **Ecología, Biología Marina, Climatología y Recursos Naturales**, entre otras. 
 
-A modo de referencia, los 6 articulos reportados en el proyecto y el libro han recibido la cantidad de **130 citas** en total, mientras que a continuacion se detallan las **69 citas** obtenidas desde otras areas del conocimiento, a saber: 
+A modo de referencia, los 6 artículos reportados en el proyecto y el libro han recibido la cantidad de **130 citas** en total, mientras que a continuación se detallan las **69 citas** obtenidas desde otras áreas del conocimiento, a saber: 
 
 ## Statistics & Probability Letters 209, 110087
 - Ganthavee, V., Trzcinski, A.P. (2025). Removal of reactive black 5 in water using adsorption and electrochemical oxidation technology: kinetics, isotherms and mechanisms. [International Journal of Environmental Science and Technology](https://doi.org/10.1007/s13762-024-05696-4) 22, 1083-1106. 
