@@ -14,8 +14,8 @@ Los resultados del proyecto han tenido un impacto significativo en la comunidad 
 En resumen, este proyecto ha generado métodos innovadores para mejorar el análisis de datos en múltiples disciplinas, brindando herramientas más precisas y eficientes para el estudio de fenómenos complejos.
 
 ## Informes asociados al proyecto 
-- [Informe de Resultados](Informes/Resultados_1140580.pdf) [PDF, 140 Kb]
-- [Resumen Ejecutivo](Informes/Resumen-Final_1140580.pdf) [PDF, 61 Kb]
+- [Informe de Resultados](Informes/Resultados_1140580.pdf) [PDF, 159 Kb]
+- [Resumen Ejecutivo](Informes/Resumen-Final_1140580.pdf) [PDF, 73 Kb]
 - [Resumen para Divulgación](Informes/Resumen-Divulgacion_1140580.pdf) [PDF, 58 Kb]
 
 ## Artículos científicos
