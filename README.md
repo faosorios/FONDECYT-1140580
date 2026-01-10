@@ -37,3 +37,9 @@ En resumen, este proyecto ha generado métodos innovadores para mejorar el anál
 - Jessenia Cortés. Tema: _Leverage generalizado en estimación máximo Lq-verosímil_. Magíster en Estadística, Pontificia Universidad Católica de Valparaíso. Julio 2016.
 - Jessica García. Tema: _Test gradiente en funciones de inferencia_. Estadístico, Pontificia Universidad Católica de Valparaíso. Diciembre 2015.
 - Agustín Uribe. Tema: _Detección de outliers en ecuaciones de estimación_. Ingeniero Civil Matemático, Universidad Técnica Federico Santa María. Agosto 2015.
+
+## Difusión a la sociedad
+Algunos resultados asociados al proyecto han sido difundidos en las siguientes charlas:
+- *Toma de Decisiones y Estadística*. XXIII Semana Nacional de la Ciencia y la Tecnología, programa 1000 Científicos 1000 Aulas. Noviembre 2017.
+- *Aleatoriedade e Modelagem Estatística*. Ciclo de Seminários de Orientación Académica. Instituto de Ciências Matemáticas e de Computação (ICMC), Universidade de Sao Paulo, Brasil. Agosto 2016.
+- *Aplicaciones del test gradiente en funciones de inferencia, diagnóstico de influencia e hipótesis no lineales*. 7ma V-Escuela del Doctorado en Matemática de Valparaiso. Noviembre 2018 (dictado para potenciales estudiantes del Doctorado en Matemática Consorcio PUCV-UTFSM-UV).
