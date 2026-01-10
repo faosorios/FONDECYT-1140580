@@ -43,3 +43,5 @@ Algunos resultados asociados al proyecto han sido difundidos en las siguientes c
 - *"Toma de Decisiones y Estadística"*. XXIII Semana Nacional de la Ciencia y la Tecnología, programa 1000 Científicos 1000 Aulas. Noviembre 2017.
 - *"Aleatoriedade e Modelagem Estatística"*. Ciclo de Seminários de Orientación Académica. Instituto de Ciências Matemáticas e de Computação (ICMC), Universidade de Sao Paulo, Brasil. Agosto 2016.
 - *"Aplicaciones del test gradiente en funciones de inferencia, diagnóstico de influencia e hipótesis no lineales"*. 7ma V-Escuela del Doctorado en Matemática de Valparaiso. Noviembre 2018 (dictado para potenciales estudiantes del Doctorado en Matemática Consorcio PUCV-UTFSM-UV).
+
+Un listado de referencias desde areas del conocimiento diferentes a matematica/estadistica, se encuentra en el siguiente enlace [Citations.md](Citations.md)
